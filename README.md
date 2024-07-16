@@ -12,7 +12,7 @@ JavaScript Quiz Website, Test your knowledge with a collection of engaging quizz
 
 Live Demo:
 
-
+https://mannath-quiz-app.netlify.app/
 
 ![alt text](demo.png)    
 
